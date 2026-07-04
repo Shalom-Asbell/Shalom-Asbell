@@ -5,7 +5,7 @@ engineering.
 
 - MSc, Distributed Systems (York University); published at OPODIS 2023 on wait-free
   concurrent data structures.
-- Designed the first concurrent data structure whose bound adapts to access patterns (under
+- Designed the first concurrent data structure with a bound per operation that adapts to access patterns (under
   review), implemented in LockFreeContainers below.
 - Built a HIPAA-compliant platform for a U.S. ABA therapy company, solo, zero to production,
   to make mental-health and behavioral care **affordable and easy to access**.
