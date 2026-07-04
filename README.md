@@ -1,7 +1,5 @@
 # Shalom Asbell
 
-**Citizenships:** 🇨🇦 🇺🇸
-
 Systems engineer and researcher in lock-free concurrency and low-latency performance
 engineering.
 
