@@ -10,7 +10,8 @@ I point that same rigor at making mental-health and behavioral care **affordable
 access**. That's why I built a HIPAA-compliant platform for an ABA therapy company in the
 U.S.: full stack (Next.js/AWS/PostgreSQL), solo, zero to production, cutting the
 administrative overhead that makes behavioral care expensive and hard to schedule. I'm
-AI-native and integrate AI into everything I build, including this.
+AI-native and bring AI into the product work I do, on top of the classical-algorithms
+research behind the systems side.
 
 ## Currently interested in
 
