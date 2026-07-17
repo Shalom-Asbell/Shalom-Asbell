@@ -14,8 +14,7 @@ engineering.
   performance engineering, where my research background is.
 - **Theoretical AI**: the underlying learning theory and formal foundations, not just applying
   the tools.
-- **Affordable, accessible mental-health & behavioral care**: the throughline behind that work
-  and what I pick up next, lowering the cost and friction of getting people into care.
+- **Affordable, accessible mental-health & behavioral care**: building automations and user-facing software that lowers the cost and friction of getting people into care.
 
 ## Selected projects
 
