@@ -8,7 +8,7 @@ engineering.
 - Designed the first concurrent data structure with a working set bound (under
   review), implemented in LockFreeContainers below.
 
-## Currently interested in
+## Currently working on
 
 - **Low-latency & concurrent systems**: lock-free data structures, memory reclamation, and
   performance engineering, where my research background is.
