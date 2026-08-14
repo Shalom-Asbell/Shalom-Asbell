@@ -7,6 +7,7 @@ engineering.
 - Designed the concurrent deque with the best amortized step complexity (OPODIS 2024)
 - Designed the first concurrent data structure with a working set bound (DISC 2026)
 - Co-founded Cocharts (2026), a clinical automation providor currently servicing therapy practices in the US and Canada
+- Building the future of psychiatric care at PreferNP (www.prefernp.com)
   
 ## Currently working on
 
