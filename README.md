@@ -16,13 +16,11 @@ Systems engineer and shared-memory researcher.
 - **Theoretical AI**: the underlying learning theory and formal foundations, not just applying
   the tools.
 
-## Selected projects
+## Selected public projects
 
 | Project | Description |
 |---|---|
 | [LockFreeContainers](https://github.com/shalom01/LockFreeContainers) | C++17 lock-free data structures (Treiber stack, wait-free SPSC ring buffer, self-adjusting move-to-front list) with pluggable memory reclamation, including Brown's epoch-based reclamation (DEBRA). |
-
-Most of my recent work is closed-source and not linked above.
 
 ## Links
 
