@@ -1,7 +1,6 @@
 # Shalom Asbell
 
-Systems engineer and researcher in lock-free concurrency and low-latency performance
-engineering.
+Systems engineer and shared-memory researcher.
 
 - MSc, Distributed Systems (York University)
 - Designed the concurrent deque with the best amortized step complexity (OPODIS 2024)
