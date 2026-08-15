@@ -5,7 +5,7 @@ Systems engineer and shared-memory researcher.
 - MSc, Distributed Systems (York University)
 - Designed the concurrent deque with the best amortized step complexity (OPODIS 2024)
 - Designed the first concurrent data structure with a working set bound (DISC 2026)
-- Co-founded Cocharts (www.cocharts.app), a clinical software providor currently servicing therapy practices in the US and Canada
+- Co-founded Cocharts (www.cocharts.ai), a clinical software providor currently servicing therapy practices in the US and Canada
 - Building the future of psychiatric care at PreferNP (www.prefernp.com)
   
 ## Currently working on
