@@ -26,4 +26,3 @@ Systems engineer and shared-memory researcher.
 
 - [LinkedIn](https://linkedin.com/in/shalom-asbell)
 - [Google Scholar](https://scholar.google.ca/citations?user=aSCsHK4AAAAJ&hl=en&oi=ao)
-- shalomasbell@gmail.com
