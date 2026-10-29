@@ -12,7 +12,7 @@ Systems engineer and shared-memory researcher.
 - **Low-latency & concurrent systems**: lock-free data structures, memory reclamation, and
   performance engineering, where my research background is.
 - **Affordable, accessible mental-health & behavioral care**: building automations and user-facing software that lowers the cost and friction of getting people into care.
-- **AI**: the underlying theory and using AI to accelerate formal verification
+- **AI**: the underlying theory and using AI to accelerate formal verification.
 
 ## Selected public projects
 
