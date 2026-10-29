@@ -7,13 +7,12 @@ Systems engineer and shared-memory researcher.
 - Designed the first concurrent data structure with a working set bound (DISC 2026)
 - Building the future of psychiatric care at PreferNP (www.prefernp.com)
   
-## Currently working on
+## Currently working on/ interested in
 
 - **Low-latency & concurrent systems**: lock-free data structures, memory reclamation, and
   performance engineering, where my research background is.
 - **Affordable, accessible mental-health & behavioral care**: building automations and user-facing software that lowers the cost and friction of getting people into care.
-- **Theoretical AI**: the underlying learning theory and formal foundations, not just applying
-  the tools.
+- **AI**: the underlying theory and using AI to accelerate formal verification
 
 ## Selected public projects
 
