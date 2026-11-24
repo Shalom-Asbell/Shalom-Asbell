@@ -4,7 +4,7 @@ Systems engineer and shared-memory researcher.
 
 - MSc, Distributed Systems (York University)
 - Designed the concurrent deque with the best-known amortized step complexity (OPODIS 2024)
-- Designed the first concurrent data structure with a working set bound (DISC 2026)
+- Designed the first concurrent data structure with an amortized bound per operation that adapts to the access pattern of keys (DISC 2026)
 - Building the future of psychiatric care at PreferNP (www.prefernp.com)
   
 ## Currently working on/ interested in
